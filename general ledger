@@ -666,6 +666,10 @@ function closeMonth() {
 
 })();
 
+<nav>
+  <a href="index.html">Home</a> |
+  <a href="revenue-ledger.html">Revenue Ledger</a>
+</nav>
 
 </script>
 
